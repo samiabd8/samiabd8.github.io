@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sbmn)
 
+[![CV](https://img.shields.io/badge/CV%%-8A2BE2)](https://drive.google.com/file/d/1Tdai6FWYV1I-tH05AL0ENHW4BK9uIKH7)
+
 I am a PhD candidate in Economics at Toronto Metropolitan University. My research involves bridging the gaps between structural microeconometrics and machine learning tools used for causal inference. 
 
 #### Email
