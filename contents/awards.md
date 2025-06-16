@@ -1,4 +1,4 @@
-Behavioural Political Economy Group Fellowship, 2023-Present
+- Behavioural Political Economy Group Fellowship, 2023-Present
 
 - Lang Graduate Research Assistantship, Summer 2019.
 
