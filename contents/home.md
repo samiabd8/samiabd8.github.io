@@ -1,6 +1,7 @@
 
 
 [![samiabd8](https://img.shields.io/badge/samiabd8-github-blue?logo=github)](https://github.com/samiabd8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sbmn)
 
 I am a PhD candidate in Economics at Toronto Metropolitan University, Canada.
 
