@@ -6,7 +6,7 @@
 
 [![CV](https://img.shields.io/badge/CV-8A2BE2)](https://drive.google.com/file/d/1yvGkgqHfmpM8v206I3YxpealXFRibVhv)
 
-I am a PhD candidate in Economics at Toronto Metropolitan University. My research involves bridging the gaps between structural (micro)econometrics and machine learning tools used for causal inference. I will be on the job market for the 2025-2026 academic year.   
+I am a PhD candidate in Economics at Toronto Metropolitan University. My research involves bridging the gaps between structural (micro)econometrics and machine learning tools used for causal inference, with empirical applications in finance. I will be on the job market for the 2025-2026 academic year.   
 
 #### Email
 sami.abdurahman[at]torontomu.ca
@@ -17,5 +17,7 @@ M.A., Economics, University of Guelph, 2018—2019. \
 B.A., International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Research Interests
-Econometrics, Machine Learning, Asset Pricing.
+- Econometrics (nonparametric estimation, quantile regression, high-dimensional probability theory)
+- Machine Learning (neural networks, SGD, double/debiased ML) 
+- Asset Pricing (endogeneity, market microstructure, risk forecasting)
 
