@@ -21,3 +21,5 @@ B.A., International Economics and Finance, Ryerson University, 2014—2018.
 - Machine Learning (neural networks, SGD, double/debiased ML) 
 - Empirical Finance (asset pricing, market microstructure, risk forecasting)
 
+#### Courses Taught
+- Introduction to Financial Economics
