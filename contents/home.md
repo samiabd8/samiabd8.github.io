@@ -6,7 +6,7 @@
 
 [![CV](https://img.shields.io/badge/CV-8A2BE2)](https://drive.google.com/file/d/1tmijQE7W8M9HFBzTTSD27ouPXu_p_kvZ)
 
-I am a PhD candidate in Economics at Toronto Metropolitan University. My research involves bridging the gaps between structural microeconometrics and machine learning tools used for causal inference, with empirical applications in finance. I will be on the job market for the 2025-2026 academic year.   
+I am a PhD candidate in Economics at Toronto Metropolitan University. My research involves bridging the gaps between structural microeconometrics and machine learning tools used for causal inference, with empirical applications in finance. 
 
 #### Email
 sami.abdurahman[at]torontomu.ca
