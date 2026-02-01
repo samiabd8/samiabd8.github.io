@@ -6,7 +6,7 @@
 
 [![CV](https://img.shields.io/badge/CV-8A2BE2)](https://drive.google.com/file/d/1tmijQE7W8M9HFBzTTSD27ouPXu_p_kvZ)
 
-I am a PhD candidate in Economics at Toronto Metropolitan University. My research involves bridging the gaps between structural microeconometrics and machine learning tools used for causal inference, with empirical applications in finance. 
+I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor Brennan Thompson. My research involves bridging the gaps between structural econometrics and machine learning tools used for causal inference, with empirical applications in finance. I currently work as a graduate research assistant to Professor Nikola Gradojevic, the Fidelity Chair in Finance at the University of Guelph.   
 
 #### Email
 sami.abdurahman[at]torontomu.ca
@@ -17,7 +17,7 @@ M.A., Economics, University of Guelph, 2018—2019. \
 B.A., International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Research Interests
-- Econometrics (nonparametric estimation, quantile regression, high-dimensional statistics)
+- Econometrics (nonparametric/sieve estimation, time series analysis, high-dimensional statistics)
 - Machine Learning (neural networks, SGD, double/debiased ML) 
 - Empirical Finance (asset pricing, market microstructure, risk forecasting)
 
