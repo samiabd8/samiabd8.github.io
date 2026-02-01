@@ -6,7 +6,7 @@
 
 [![CV](https://img.shields.io/badge/CV-8A2BE2)](https://drive.google.com/file/d/1tmijQE7W8M9HFBzTTSD27ouPXu_p_kvZ)
 
-I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor Brennan Thompson. My research involves bridging the gaps between <strong>structural econometrics and machine learning tools used for causal inference</strong>, with empirical applications in finance. I currently work as a graduate research assistant to Professor Nikola Gradojevic, the Fidelity Chair in Finance at the University of Guelph.   
+I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor [[Brennan Thompson]](https://www.torontomu.ca/economics/people/faculty/brennan-thompson/). My research involves bridging the gaps between <strong>structural econometrics and machine learning tools used for causal inference</strong>, with empirical applications in finance. I currently work as a graduate research assistant to Professor [[Nikola Gradojevic]](https://www.uoguelph.ca/lang/people/nikola-gradojevic), the Fidelity Chair in Finance at the University of Guelph.   
 
 #### Email
 sami.abdurahman[at]torontomu.ca
