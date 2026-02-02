@@ -17,7 +17,7 @@ M.A., Economics, University of Guelph, 2018—2019. \
 B.A., International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Research Interests
-- Econometrics (nonparametric/sieve estimation, time series analysis, high-dimensional statistics)
+- Econometrics (nonparametric/sieve estimation, nonlinear time series, high-dimensional statistics)
 - Machine Learning (neural networks, SGD, double/debiased ML) 
 - Empirical Finance (asset pricing, market microstructure, risk forecasting)
 
