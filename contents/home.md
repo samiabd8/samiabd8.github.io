@@ -13,8 +13,8 @@ sami.abdurahman[at]torontomu.ca
 
 #### Education
 PhD, Economics, Toronto Metropolitan University, 2020-2026 (expected). \
-M.A., Economics, University of Guelph, 2018—2019. \
-B.A., International Economics and Finance, Ryerson University, 2014—2018.
+MA, Economics, University of Guelph, 2018—2019. \
+BA, International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Research Interests
 - Econometrics (nonparametric/sieve estimation, nonlinear time series, high-dimensional statistics)
