@@ -23,7 +23,7 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 #### Research Interests
 - <strong>Econometrics:</strong> nonparametric estimation, nonlinear time series, high-dimensional statistics.
 - <strong>Machine Learning:</strong> neural networks, SGD, double/debiased ML. 
-- <strong>Finance:</strong> asset pricing, market microstructure, risk forecasting).
+- <strong>Finance:</strong> asset pricing, market microstructure, risk forecasting.
 
 #### Courses Taught
 - Introduction to Financial Economics
