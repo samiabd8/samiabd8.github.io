@@ -27,7 +27,7 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 - Introduction to Financial Economics
 
 #### Office Hours
-- (TMU Dept of Economics Software Advisor) Wednesdays and Fridays, 4-6pm EST
+- TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4-6pm EST
 
 #### Citizenship
 - Canadian (Toronto native) 
