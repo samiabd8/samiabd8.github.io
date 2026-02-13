@@ -21,16 +21,16 @@ MA, Economics, University of Guelph, 2018—2019. \
 BA, International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Research Interests
-- Econometrics (nonparametric/sieve estimation, nonlinear time series, high-dimensional statistics)
-- Machine Learning (neural networks, SGD, double/debiased ML) 
-- Finance (asset pricing, market microstructure, risk forecasting)
+- <strong>Econometrics:</strong> nonparametric estimation, nonlinear time series, high-dimensional statistics.
+- <strong>Machine Learning:</strong> neural networks, SGD, double/debiased ML. 
+- <strong>Finance:</strong> asset pricing, market microstructure, risk forecasting).
 
 #### Courses Taught
 - Introduction to Financial Economics
 
 #### Office Hours
-- TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4-6pm EST
-- PhD Econometrics I (TA): By appointment
+- TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4-6pm EST.
+- PhD Econometrics I (TA): By appointment.
 
 #### Citizenship
-- Canadian (Toronto native) 
+- Canadian (Toronto native). 
