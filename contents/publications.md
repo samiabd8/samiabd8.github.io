@@ -4,6 +4,7 @@
 
 - Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence. (In progress)
 
-- Inference in Dynamic Discrete Choice Models via Kolmogorov-Arnold Sieve Networks (In progress)
+- Order Flows in Global Natural Gas Markets: A Comparative Study of Henry Hub and TTF. (In progress, with N. Gradojevic)
 
+- Options Pricing via Penalized Sieve Neural Networks. (In progress, with N. Gradojevic) 
 
