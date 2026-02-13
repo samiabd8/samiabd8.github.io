@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sbmn)
 
+[![ORCID](https://img.shields.io/badge/ORCID-link-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5475-5770)
+
 [![CV](https://img.shields.io/badge/CV-8A2BE2)](https://drive.google.com/file/d/1tmijQE7W8M9HFBzTTSD27ouPXu_p_kvZ)
 
 Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor [Brennan Thompson](https://www.torontomu.ca/economics/people/faculty/brennan-thompson/). I currently work as a graduate research assistant to Professor [Nikola Gradojevic](https://www.uoguelph.ca/lang/people/nikola-gradojevic), the Fidelity Chair in Finance at the University of Guelph.   
