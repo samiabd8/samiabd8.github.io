@@ -8,7 +8,7 @@
 
 Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor [Brennan Thompson](https://www.torontomu.ca/economics/people/faculty/brennan-thompson/). I currently work as a graduate research assistant to Professor [Nikola Gradojevic](https://www.uoguelph.ca/lang/people/nikola-gradojevic), the Fidelity Chair in Finance at the University of Guelph.   
 
-My research develops <strong>causal inference frameworks by integrating structural econometrics with machine learning</strong>, with empirical applications primarily in finance. I am committed to <strong>replicable and open research</strong>, in addition to free and open-source software.
+My research develops <strong>causal inference frameworks by integrating structural econometrics with machine learning</strong>, featuring empirical applications primarily in finance. I am committed to <strong>replicable and open research</strong>, in addition to free and open-source software.
 
 #### Email
 sami.abdurahman[at]torontomu.ca
