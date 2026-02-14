@@ -4,7 +4,7 @@
 
 - Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence. (In progress)
 
-- Order Flows in Global Natural Gas Markets: A Comparative Study of Henry Hub and TTF. (In progress, with N. Gradojevic)
+- Forecasting Price Movements in Global Natural Gas Markets Using Order Flows. (In progress, with N. Gradojevic)
 
 - Options Pricing via Penalized Sieve Neural Networks. (In progress, with N. Gradojevic) 
 
