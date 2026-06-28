@@ -16,7 +16,7 @@ My research develops <strong>causal inference frameworks by integrating machine 
 sami.abdurahman[at]torontomu.ca
 
 #### Education
-PhD, Economics, Toronto Metropolitan University, 2020-2026 (expected). \
+PhD, Economics, Toronto Metropolitan University, 2020—2026 (expected). \
 MA, Economics, University of Guelph, 2018—2019. \
 BA, International Economics and Finance, Ryerson University, 2014—2018.
 
