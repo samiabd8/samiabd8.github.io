@@ -10,4 +10,4 @@
 
 <!-- - Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework (In progress, with Kevin Fawcett and Jason Chen) -->
 
-<!-- - Retail Mistiming versus Institutional Access: A Structural Counterfactual (In progress, with Kevin Fawcett and Yasser El-Ahmar) -->
+<!-- - Retail Mistiming versus Institutional Access: A Structural Counterfactual (In progress, with Kevin Fawcett and Yasser El-Ahmar) --> 
