@@ -4,7 +4,7 @@
 
 - Options Pricing via Penalized Sieve Neural Networks. (In progress, with Nikola Gradojevic) 
 
-- Forecasting Price Movements in Global Natural Gas Markets Using Order Flows. (In progress, with Nikola Gradojevic)
+- The Information Content of High-Dimensional Order Flows in Global Natural Gas Futures. (In progress, with Nikola Gradojevic)
 
 - Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence. (In progress) <!-- Paused -->
 
