@@ -26,7 +26,7 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 - <strong>Finance:</strong> asset pricing, market microstructure, risk forecasting.
 
 #### Teaching Experience
-- Courses taught: Introduction to Financial Economics, Summer 2025 and Summer 2026.
+- Courses taught: <strong>Introduction to Financial Economics</strong>, Summer 2025 and Summer 2026.
 - Programming lecturing: TRSM Bootcamps (R and Python), 2020—2024; Department of Economics Workshops, 2025—Present. 
 
 #### Consulting Experience
