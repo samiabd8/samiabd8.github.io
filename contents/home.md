@@ -25,8 +25,9 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 - <strong>Machine Learning:</strong> neural networks, stochastic gradient descent, double/debiased ML. 
 - <strong>Finance:</strong> asset pricing, market microstructure, risk forecasting.
 
-#### Courses Taught
-- Introduction to Financial Economics, Summer 2025 and Summer 2026.
+#### Teaching Experience
+- Courses taught: Introduction to Financial Economics, Summer 2025 and Summer 2026.
+- Programming lecturing: TRSM Bootcamps (R and Python), 2020—2024; Department of Economics Workshops, 2025—Present. 
 
 #### Consulting Experience
 - [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) under Professor [Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026—Present.    
