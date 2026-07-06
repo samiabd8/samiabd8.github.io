@@ -26,10 +26,10 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 - <strong>Finance:</strong> asset pricing, market microstructure, risk forecasting.
 
 #### Courses Taught
-- Introduction to Financial Economics
+- Introduction to Financial Economics, Summer 2025 and Summer 2026.
 
 #### Consulting Experience
-- [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) under [Professor Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026—Present.    
+- [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) under Professor [Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026—Present.    
 
 #### Office Hours
 - TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4-6pm EST.
