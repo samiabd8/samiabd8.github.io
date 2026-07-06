@@ -28,6 +28,9 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 #### Courses Taught
 - Introduction to Financial Economics
 
+#### Consulting Experience
+- [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) under [Professor Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026—Present.    
+
 #### Office Hours
 - TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4-6pm EST.
 - PhD Econometrics I (TA): By appointment.
