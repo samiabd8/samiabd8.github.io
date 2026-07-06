@@ -27,7 +27,7 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Teaching Experience
 - Courses taught: <strong>Introduction to Financial Economics</strong>, Summer 2025 and Summer 2026.
-- Programming lecturing: TRSM Bootcamps (R and Python), 2020—2024; Department of Economics Workshops, 2025—Present. 
+- Programming lecturing: TRSM Bootcamps (R and Python), 2020—2024; TMU Department of Economics Workshops, 2025—Present. 
 
 #### Consulting Experience
 - [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) under Professor [Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026—Present.    
