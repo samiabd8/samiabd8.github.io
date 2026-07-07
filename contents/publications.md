@@ -1,13 +1,13 @@
 - <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference. </strong> [[Working Paper, Code]](https://github.com/samiabd8/sieveKAN)
 
+- <strong> Options Pricing via Penalized Sieve Neural Networks. </strong> (with Nikola Gradojevic) [[Working Paper, Code]](https://github.com/samiabd8/KASN_OptionsPricing)
+
 - <strong> Instrumental Variable Quantile Regression Using Artificial Neural Networks. </strong> [[Working Paper, Code]](https://github.com/samiabd8/IVQRNN)
 
-- Options Pricing via Penalized Sieve Neural Networks. (In progress, with Nikola Gradojevic) 
+- Retail Mistiming versus Institutional Access: A Structural Counterfactual (In progress, with Kevin Fawcett and Yasser El-Ahmar) 
 
 - The Information Content of High-Dimensional Order Flows in Global Natural Gas Futures. (In progress, with Nikola Gradojevic)
 
-- Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence. (In progress) <!-- Paused -->
+- Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework (In progress, with Kevin Fawcett and Jason Chen)
 
-<!-- - Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework (In progress, with Kevin Fawcett and Jason Chen) -->
-
-<!-- - Retail Mistiming versus Institutional Access: A Structural Counterfactual (In progress, with Kevin Fawcett and Yasser El-Ahmar) --> 
+- Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence. (Paused) <!-- Paused -->
