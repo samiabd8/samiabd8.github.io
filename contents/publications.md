@@ -4,10 +4,10 @@
 
 - <strong> Instrumental Variable Quantile Regression Using Artificial Neural Networks. </strong> [[Working Paper, Code]](https://github.com/samiabd8/IVQRNN)
 
-- Retail Mistiming Versus Institutional Access: A Structural Counterfactual (In progress, with Kevin Fawcett and Yasser El-Ahmar) 
+- Retail Mistiming Versus Institutional Access: A Structural Counterfactual (in progress, with Kevin Fawcett and Yasser El-Ahmar) 
 
-- The Information Content of High-Dimensional Order Flows in Global Natural Gas Futures. (In progress, with Nikola Gradojevic)
+- The Information Content of High-Dimensional Order Flows in Global Natural Gas Futures. (in progress, with Nikola Gradojevic)
 
-- Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework (In progress, with Kevin Fawcett and Jason Chen)
+- Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework (in progress, with Kevin Fawcett and Jason Chen)
 
 - Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence. (Paused) <!-- Paused -->
