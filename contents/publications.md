@@ -4,7 +4,7 @@
 
 - <strong> Instrumental Variable Quantile Regression Using Artificial Neural Networks. </strong> [[Working Paper, Code]](https://github.com/samiabd8/IVQRNN)
 
-- Retail Mistiming versus Institutional Access: A Structural Counterfactual (In progress, with Kevin Fawcett and Yasser El-Ahmar) 
+- Retail Mistiming Versus Institutional Access: A Structural Counterfactual (In progress, with Kevin Fawcett and Yasser El-Ahmar) 
 
 - The Information Content of High-Dimensional Order Flows in Global Natural Gas Futures. (In progress, with Nikola Gradojevic)
 
