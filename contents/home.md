@@ -32,7 +32,7 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
   - TRSM Bootcamps (Lead facilitator: R and Python), 2020—2024.
   - <strong>TMU Department of Economics Workshops</strong>, 2025—Present.
 - Consulting work:
-  - [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) under Professor [Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026—Present.    
+  - [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) (under Professor [Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/)), March 2026—Present.    
 
 
 #### Office Hours
