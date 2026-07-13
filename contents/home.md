@@ -38,7 +38,7 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 #### Office Hours 
 204 Jorgenson Hall 
 - TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4-6pm EST.
-- PhD Econometrics I (TA): By appointment.
+- PhD Econometrics I&II (TA): By appointment.
 
 #### Citizenship
 - Canadian (Toronto native). 
