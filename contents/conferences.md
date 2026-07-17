@@ -1,3 +1,5 @@
+- The 41st Annual Meeting of the Canadian Econometrics Study Group (CESG; Poster presentation, scheduled), [Oct 2026](https://caneconometrics.ca/annualMeeting/current/details/).
+
 - The 19th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (CFE-CMStatistics), [Dec 2025](https://www.cmstatistics.org/RegistrationsV2/CFECMStatistics2025/viewSubmission.php?in=948&token=5865r8r7rs6266psp1so79r49929n54q).
 
 - The 40th Annual Meeting of the Canadian Econometrics Study Group (CESG; Poster presentation), [Oct 2025](https://caneconometrics.ca/assets/extra_htm/old_files/CESG_program0.htm).
