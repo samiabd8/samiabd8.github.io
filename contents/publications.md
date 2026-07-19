@@ -1,6 +1,6 @@
 - <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference </strong> [[Working Paper, Code]](https://github.com/samiabd8/sieveKAN) (Job Market Paper)
 
-- <strong> Options Pricing via Penalized Sieve Neural Networks </strong> [[Working Paper, Code]](https://github.com/samiabd8/KASN_OptionsPricing) (with Nikola Gradojevic)
+- <strong> Option Pricing via Penalized Sieve Neural Networks </strong> [[Working Paper, Code]](https://github.com/samiabd8/KASN_OptionsPricing) (with Nikola Gradojevic)
 
 - <strong> Instrumental Variable Quantile Regression Using Artificial Neural Networks </strong> [[Working Paper, Code]](https://github.com/samiabd8/IVQRNN)
 
