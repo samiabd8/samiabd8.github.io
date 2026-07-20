@@ -10,4 +10,4 @@
 
 - <strong> Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework; <strong> in progress, with Kevin Fawcett and Jason Chen.
 
-- Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence (paused) <!-- Paused -->
+- Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence; paused. <!-- Paused -->
