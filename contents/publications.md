@@ -1,4 +1,4 @@
-- <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference; </strong> Job Market Paper. [[Working Paper, Code]](https://github.com/samiabd8/sieveKAN)
+- <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference; </strong> job market paper (JMP). [[Working Paper, Code]](https://github.com/samiabd8/sieveKAN)
 
 - <strong> Option Pricing via Penalized Sieve Neural Networks; </strong> with Nikola Gradojevic.  [[Working Paper, Code]](https://github.com/samiabd8/KASN_OptionsPricing) 
 
