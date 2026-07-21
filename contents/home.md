@@ -8,20 +8,20 @@
 
 [![CV](https://img.shields.io/badge/CV-8A2BE2)](https://drive.google.com/file/d/1tmijQE7W8M9HFBzTTSD27ouPXu_p_kvZ)
 
-Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor [Brennan Thompson](https://www.torontomu.ca/economics/people/faculty/brennan-thompson/). I currently work as a graduate research assistant to Professor [Nikola Gradojevic](https://www.uoguelph.ca/lang/people/nikola-gradojevic), the Fidelity Chair in Finance at the University of Guelph.   
+Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor [Brennan Thompson](https://www.torontomu.ca/economics/people/faculty/brennan-thompson/). I currently work as a graduate research assistant to Professor [Nikola Gradojevic](https://www.uoguelph.ca/lang/people/nikola-gradojevic), the Fidelity Chair in Finance at the University of Guelph. I will be on the 2026—2027 academic job market. 
 
-My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong> using empirical process theory, featuring applications primarily in finance. I am committed to <strong>replicable and open research</strong>, in addition to the development of free and open-source software.
+My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong>, featuring applications primarily in finance. My work leverages rigorous statistical tools, including: <strong>empirical process theory, the method of sieves, and Bayesian methods</strong>. I am deeply committed to <strong>replicable and open research</strong>, in addition to the development of free and open-source software.
 
 #### Email
 sami.abdurahman[at]torontomu.ca
 
 #### Education
-PhD, Economics, Toronto Metropolitan University, 2020—2026 (expected). \
+PhD, Economics, Toronto Metropolitan University, 2020—2027 (expected). \
 MA, Economics, University of Guelph, 2018—2019. \
 BA, International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Research Interests
-- <strong>Econometrics:</strong> nonparametric and Bayesian estimation, nonlinear time series, high-dimensional statistics.
+- <strong>Econometrics:</strong> semiparametric & Bayesian inference, nonlinear time-series, high-dimensional statistics.
 - <strong>Machine Learning:</strong> neural networks, stochastic gradient descent, double/debiased ML. 
 - <strong>Finance:</strong> asset pricing, market microstructure, risk forecasting.
 
