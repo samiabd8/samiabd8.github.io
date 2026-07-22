@@ -8,6 +8,6 @@
 
 - <strong> The Information Content of High-Dimensional Order Flows in Global Natural Gas Futures; </strong> in progress, with Nikola Gradojevic.
 
-- <strong> Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework; </strong> in progress, with Kevin Fawcett & Jason Chen.
+- <strong> Off-Policy Evaluation in Block-Recursive Directed Search Models: A Double Reinforcement Learning Framework; </strong> in progress, with Kevin Fawcett & Zisheng (Jason) Chen.
 
 - Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence; paused. <!-- Paused -->
