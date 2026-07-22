@@ -10,17 +10,17 @@
 
 Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor [Brennan Thompson](https://www.torontomu.ca/economics/people/faculty/brennan-thompson/). I currently work as a graduate research assistant to Professor [Nikola Gradojevic](https://www.uoguelph.ca/lang/people/nikola-gradojevic), the Fidelity Chair in Finance at the University of Guelph. 
 
-My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong>, featuring applications primarily in finance. My work leverages rigorous statistical tools, including: <strong>empirical process theory, the method of sieves, and Bayesian methods</strong>. 
+My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong>, featuring applications primarily in finance. This centers around leveraging rigorous statistical tools, including: <strong>empirical process theory, the method of sieves, and Bayesian methods</strong>. 
 
-I am deeply committed to <strong>replicable and open research</strong>, in addition to the development of free and open-source software. I will be available for interviews in the 2026—2027 academic job market.  
+I am deeply committed to <strong>replicable and open research</strong>, in addition to the development of free and open-source software. I will be available for interviews in the 2026–2027 academic job market.  
 
 #### Email
 sami.abdurahman[at]torontomu.ca
 
 #### Education
-PhD, Economics, Toronto Metropolitan University, 2020—2027 (expected). \
-MA, Economics, University of Guelph, 2018—2019. \
-BA, International Economics and Finance, Ryerson University, 2014—2018.
+PhD, Economics, Toronto Metropolitan University, 2020–2027 (expected). \
+MA, Economics, University of Guelph, 2018–2019. \
+BA, International Economics and Finance, Ryerson University, 2014–2018.
 
 #### Research Interests
 - <strong>Econometrics:</strong> semiparametric & Bayesian inference, nonlinear time-series, high-dimensional statistics.
@@ -29,17 +29,17 @@ BA, International Economics and Finance, Ryerson University, 2014—2018.
 
 #### Teaching and Consulting Experience
 - Courses taught:
-  - <strong>Introduction to Financial Economics</strong>, 2025—Present. 
+  - <strong>Introduction to Financial Economics</strong>, 2025–Present. 
 - Programming lecturing:
-  - TMU Department of Economics Workshops, 2025—Present.
-  - TRSM Bootcamps (R/Python), 2020—2024.
+  - TMU Department of Economics Workshops, 2025–Present.
+  - TRSM Bootcamps (R/Python), 2020–2024.
 - Consulting work:
-  - [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) with Professor [Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026—Present.    
+  - [Cardinal Economics](https://www.linkedin.com/company/cardinal-economics/about/) with Professor [Kevin Fawcett](https://www.torontomu.ca/economics/people/faculty/kevin-fawcett/), March 2026–Present.    
 
 
 #### Office Hours 
 204 Jorgenson Hall 
-- TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4-6pm EDT.
+- TMU Department of Economics Software Advisor: Wednesdays and Fridays, 4–6pm EDT.
 - PhD Econometrics I&II (TA): By appointment.
 
 #### Citizenship
