@@ -10,7 +10,7 @@
 
 Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where I am advised by Professor [Brennan Thompson](https://www.torontomu.ca/economics/people/faculty/brennan-thompson/). I currently work as a graduate research assistant to Professor [Nikola Gradojevic](https://www.uoguelph.ca/lang/people/nikola-gradojevic), the Fidelity Chair in Finance at the University of Guelph. 
 
-My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong>, featuring applications primarily in finance. This centers around leveraging rigorous statistical tools, including: <strong>empirical process theory, the method of sieves, and Bayesian methods</strong>. 
+My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong>, featuring applications primarily in finance. To achieve this, I leverage rigorous statistical tools, including: <strong>empirical process theory, the method of sieves, and Bayesian methods</strong>. 
 
 I am deeply committed to <strong>replicable and open research</strong>, in addition to the development of free and open-source software. I will be available for interviews in the 2026–2027 academic job market.  
 
