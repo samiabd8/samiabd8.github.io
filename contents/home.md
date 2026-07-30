@@ -29,7 +29,8 @@ BA, International Economics and Finance, Ryerson University, 2014–2018.
 
 #### Teaching and Consulting Experience
 - Courses taught:
-  - <strong>Introduction to Financial Economics</strong>, 2025–Present. 
+  - <strong>Introduction to Financial Economics</strong>, 2025–Present.
+  - <strong>Econometrics I</strong>, 2026–Present.
 - Programming lecturing:
   - TMU Department of Economics Workshops, 2025–Present.
   - TRSM Bootcamps (R/Python), 2020–2024.
