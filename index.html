@@ -115,14 +115,24 @@
         </div>
     </section>
     <!-- Top Section -->
-
+    <style>
+        #avatar img {
+            width: 100px; /* Size for mobile */
+            height: auto;
+        }
+        @media (min-width: 768px) {
+            #avatar img {
+                width: 250px; /* Size for desktop */
+            }
+        }
+    </style>
+    
     <!-- Photo -->
     <div class="container px-5">
         <div id="avatar">
-            <img class="shadow" src="static/assets/img/photo.png" style="width: 100%; max-width: 200px; height: auto;">
+            <img class="shadow" src="static/assets/img/photo.png">
         </div>
     </div>
-    <!-- Photo -->
     
     <!-- Home -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
