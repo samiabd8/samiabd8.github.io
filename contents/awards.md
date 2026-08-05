@@ -2,7 +2,7 @@
 
 - Behavioural Political Economy Group (TMU) Fellowship, 2023—Present. 
 
-- TMU Graduate Fellowship, 2020—Present.
+- TMU Graduate Fellowship, 2020—2026.
 
 - Lang Partial Graduate Research Assistantship, Summer 2019.
 
