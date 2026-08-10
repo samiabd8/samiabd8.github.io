@@ -12,7 +12,7 @@ Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where 
 
 My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong>, featuring applications primarily in finance. To achieve this, I leverage rigorous statistical tools, including: empirical process theory, the method of sieves, and Bayesian methods. 
 
-I am deeply committed to replicable and open research, in addition to the development of free and open-source software. I will be available for interviews in the <strong>2026–2027 academic job market</strong>.  
+I am deeply committed to open, reproducible, and replicable research, in addition to the development of free and open-source software. I will be available for interviews in the <strong>2026–2027 academic job market</strong>.  
 
 #### Email
 sami.abdurahman[at]torontomu.ca
