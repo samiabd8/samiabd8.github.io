@@ -1,4 +1,4 @@
-- The 34th Annual Meeting of the Midwest Econometrics Group (MEG; scheduled) [Oct 2026](https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html)
+- The 34th Annual Meeting of the Midwest Econometrics Group (MEG; scheduled), [Oct 2026](https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html)
 
 - The 41st Annual Meeting of the Canadian Econometrics Study Group (CESG; Poster presentation, scheduled), [Oct 2026](https://caneconometrics.ca/annualMeeting/current/program/).
 
