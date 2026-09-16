@@ -1,8 +1,8 @@
-- <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference; </strong> job market paper. [[Working Paper, Code]](https://github.com/samiabd8/sieveKAN)
+- <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference; </strong> [job market paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7390879). [[GitHub Repository]](https://github.com/samiabd8/sieveKAN)
 
-- <strong> Option Pricing via Penalized Sieve Neural Networks; </strong> with Nikola Gradojevic.  [[Working Paper, Code]](https://github.com/samiabd8/KASN_OptionsPricing) 
+- <strong> Option Pricing via Penalized Sieve Neural Networks; </strong> with Nikola Gradojevic (submitted).  [[GitHub Repository]](https://github.com/samiabd8/KASN_OptionsPricing) 
 
-- <strong> Instrumental Variable Quantile Regression Using Artificial Neural Networks. </strong> [[Working Paper, Code]](https://github.com/samiabd8/IVQRNN)
+- <strong> Instrumental Variable Quantile Regression Using Artificial Neural Networks. </strong> [[GitHub Repository]](https://github.com/samiabd8/IVQRNN)
 
 - <strong> Retail Mistiming Versus Institutional Access: A Structural Counterfactual; </strong> in progress, with Kevin Fawcett & Yasser El-Ahmar.
 
