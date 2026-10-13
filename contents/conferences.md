@@ -1,6 +1,6 @@
 - The 20th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics (<strong>scheduled</strong>), [Dec 2026](https://www.cmstatistics.org/RegistrationsV2/CFECMStatistics2026/viewSubmission.php?in=2303&token=r846p13n4pr47nn10n02sp45ss936s6q).
 
-- The 34th Annual Meeting of the Midwest Econometrics Group (<strong>scheduled</strong>), [Oct 2026](https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html).
+- The 34th Annual Meeting of the Midwest Econometrics Group, [Oct 2026](https://www.business.uc.edu/faculty-research/economics/research/meg-2026.html).
 
 - The 41st Annual Meeting of the Canadian Econometrics Study Group (Poster presentation, <strong>scheduled</strong>), [Oct 2026](https://caneconometrics.ca/annualMeeting/current/program/).
 
