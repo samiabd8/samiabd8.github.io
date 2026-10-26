@@ -10,4 +10,4 @@
 
 - Retail Mistiming Versus Institutional Access: A Structural Counterfactual; with Kevin Fawcett, Zisheng Chen, & Yasser El-Ahmar (paused).
 
-<!-- - Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence; paused. <!-- Paused --> -->
+<!-- - Sieve-Based Uniform Inference for Semiparametric Models Under Weak Dependence; paused. <!-- Paused --> 
