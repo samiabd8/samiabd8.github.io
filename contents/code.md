@@ -1,4 +1,4 @@
-- <strong>KASN</strong> (Python and R), [GitHub](https://github.com/samiabd8/sieveKAN): code for the deep sieve neural network framework introduced in my job market paper. <!-- CHANGE WITH PACKAGE VERSION-->
+- <strong>KASN</strong> (Python and R), [GitHub](https://github.com/samiabd8/KASN): packages for the deep sieve neural network framework introduced in my job market paper. Note that this differs from the replication repository [SieveKAN](https://github.com/samiabd8/SieveKAN). <!-- CHANGE WITH PACKAGE VERSION-->
 
 - <strong>KASN_OptionPricing</strong> (Python), [GitHub](https://github.com/samiabd8/KASN_OptionPricing): replication scripts for the option pricing extension of the KASN framework.
 
