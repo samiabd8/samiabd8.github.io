@@ -12,7 +12,7 @@ Hi! I am a PhD candidate in Economics at Toronto Metropolitan University, where 
 
 My research develops <strong>causal inference frameworks by integrating machine learning with structural econometrics</strong>, featuring applications primarily in finance. To achieve this, I leverage rigorous statistical tools, including: empirical process theory, the method of sieves, and Bayesian methods. 
 
-I am deeply committed to open, reproducible, and replicable research. To this end, I provide SLURM-ready simulation and empirical replication scripts alongside the core code to the GitHub repositories for each of my papers. 
+I am deeply committed to open, reproducible, and replicable research. To this end, I upload SLURM-ready simulation and empirical replication scripts alongside the core code to the GitHub repositories for each of my papers. 
 
 I will be available for interviews in the <strong>2026–2027 academic job market</strong>.  
 
