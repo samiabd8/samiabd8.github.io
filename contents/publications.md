@@ -1,4 +1,4 @@
-- <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference; </strong> [job market paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7390879). [[GitHub Repository](https://github.com/samiabd8/sieveKAN), [PyPI Package](https://pypi.org/project/kasn/)]
+- <strong> Kolmogorov-Arnold Sieve Networks for High-Dimensional Estimation and Inference; </strong> [job market paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7390879). [[GitHub Repository](https://github.com/samiabd8/sieveKAN), [Python Package](https://pypi.org/project/kasn/)]
 
 - <strong> Option Pricing via Penalized Sieve Neural Networks; </strong> with Nikola Gradojevic (submitted).  [[GitHub Repository](https://github.com/samiabd8/KASN_OptionsPricing)] 
 
