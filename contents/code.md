@@ -10,4 +10,4 @@
 
 - <strong>GrangerCausalityMatrix</strong> (Python, R), [GitHub](https://github.com/samiabd8/GrangerCausalityMatrix/); an implementation of GCMs introduced in my Master's thesis, completed with Damoon Shah. This calculates and visualizes directional causal relationships across multiple time series using a labeled matrix (similar to correlation tables) and a p-value heatmap.
 
-- <strong>TemporalJEPA<strong> (Python), [GitHub](https://github.com/samiabd8/TemporalJEPA); experimental work on encoders designed for time-series forecasting across regimes with Damoon Shah. 
+- <strong>TemporalJEPA</strong> (Python), [GitHub](https://github.com/samiabd8/TemporalJEPA); experimental work on encoders designed for time-series forecasting across regimes with Damoon Shah. 
