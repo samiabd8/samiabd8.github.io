@@ -2,7 +2,7 @@
 
 - <strong>KASN_OptionPricing</strong> (Python), [GitHub](https://github.com/samiabd8/KASN_OptionPricing): replication scripts for the option pricing extension of the KASN framework.
 
-- <strong>IVQRNN</strong> (Python), [GitHub](https://github.com/samiabd8/IVQRNN): features the experimental SGD (with momentum) alternative to grid search in this setting.
+- <strong>IVQRNN</strong> (Python), [GitHub](https://github.com/samiabd8/IVQRNN): features an implementation of the shallow sieve neural network from Chen and White (1999) and the experimental SGD (with momentum) alternative to grid search in the partially linear IVQR setting.
 
 - <strong>KASN_DDCM</strong> (Python), [GitHub](https://github.com/samiabd8/KASN_DDCM): implementation of Example 3 in my job market paper, extending Norets (2012) to inference via neural networks in dynamic discrete choice models. 
 
